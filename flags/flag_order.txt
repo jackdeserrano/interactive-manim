@@ -1,0 +1,973 @@
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua \& Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia \& Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cabo Verde
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Republic of the Congo
+Democratic Republic of the Congo
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Swaziland
+Ethiopia
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+North Korea
+South Korea
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+St. Kitts \& Nevis
+St. Lucia
+St. Vincent \& the Grenadines
+Samoa
+San Marino
+São Tomé \& Príncipe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tonga
+Trinidad \& Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+Abkhazia
+Artsakh
+Northern Cyprus
+Somaliland
+South Ossetia
+Taiwan
+Transnistria
+Alberta
+British Columbia
+Manitoba
+New Brunswick
+Newfoundland \& Labrador
+Northwest Territories
+Nova Scotia
+Nunavut
+Ontario
+Prince Edward Island
+Quebec
+Saskatchewan
+Yukon
+Hong Kong
+Macau
+Harbin
+Tokyo
+São Paulo
+Mexico City
+Cairo
+Osaka
+New York City
+Buenos Aires
+Rio de Janeiro
+Kinshasa
+Moscow
+Paris
+Bogotá
+Jakarta
+Lima
+Bangkok
+Seoul
+Nagoya
+London
+Chicago
+Kuala Lumpur
+Santiago
+Madrid
+Fukuoka
+Barcelona
+Johannesburg
+St. Petersburg
+Washington, District of Columbia
+Yangon
+Alexandria
+Guadalajara
+Lubumbashi
+Giza
+Port Said
+Suez
+Nairobi
+Oujda
+Rabat
+Zaria
+Durban
+Pretoria
+Harare
+Almaty
+Nur-Sultan
+Chiba
+Hiroshima
+Kanazawa
+Kobe
+Kumamoto
+Kyoto
+Nagano
+Nagasaki
+Niigata
+Sapporo
+Sendai
+Basra
+Ashdod
+Ashkelon
+Bat Yam
+Haifa
+Jerusalem
+Karmi'el
+Kefar Saba
+Nazareth
+Netanya
+Ramat Gan
+Rishon LeẔiyyon
+Tel Aviv
+Amman
+Beirut
+Muscat
+Abu Dhabi
+Dubai
+Jaipur
+Kolkata
+Bandung
+Mandalay
+Gyumri
+Yerevan
+Nicosia
+Batumi
+Kutaisi
+Poti
+Rustavi
+Tblisi
+Babruisk
+Brest
+Homel
+Hrodna
+Minsk
+Vitsebsk
+Brno
+Český Krumlov
+Frýdek-Místek
+Jihlava
+Ostrava
+Pardubice
+Prague
+Narva
+Pärnu
+Tallinn
+Tartu
+Budapest
+Esztergom
+Daugavpils
+Riga
+Rēzekne
+Jonava
+Kaunas
+Klaipeda
+Šiauliai
+Vilnius
+Tiraspol
+Białystok
+Bielsko-Biała
+Bydgoszcz
+Kraków
+Częstochowa
+Gdańsk
+Kalisz
+Kielce
+Legnica
+Łódź
+Lublin
+Olsztyn
+Poznań
+Szczecin
+Warsaw
+Wrocław
+Barnaul
+Chelyabinsk
+Irkutsk
+Kaliningrad
+Kazan
+Krasnodar
+Krasnoyarsk
+Magnitogorsk
+Nizhny Novgorod
+Nizhny Tagil
+Novosibirsk
+Omsk
+Orenburg
+Perm
+Rostov-on-Don
+Ryazan
+Saratov
+Shuya
+Ufa
+Ulyanovsk
+Vladivostok
+Volgograd
+Voronezh
+Yaroslavl
+Yekaterinburg
+Banská Bystrica
+Bratislava
+Prešov
+Donetsk
+Kharkiv
+Kyiv
+Lviv
+Odessa
+Sevastopol
+Simferopol
+Nuuk
+Espoo
+Oulu
+Tampere
+Turku
+Reykjavik
+Helsinki
+Bergen
+Hitra
+Narvik
+Oslo
+Trondheim
+Borås
+Göteborg
+Stockholm
+Tirana
+Sarajevo
+Sofia
+Varna
+Dubrovnik
+Osijek
+Pula
+Split
+Zagreb
+Corfu
+Hydra
+Psara
+Rhodes
+Thessaloníki
+Assisi
+Bari
+Benevento
+Bologna
+Brescia
+Cagliari
+Campobasso
+Catania
+Como
+Firenze
+Genoa
+Lucca
+Messina
+Milan
+Modena
+Napoli
+Palermo
+Parma
+Pisa
+Reggio Calabria
+Roma
+Salerno
+Torino
+Venezia
+Verona
+Viterbo
+Pristina
+Mdina
+Qormi
+Valletta
+Podgorica
+Ulcinj
+Bucharest
+Belgrade
+Novi Sad
+Topola
+Ljubljana
+Andorra la Vella
+Innsbruck
+Salzburg
+Vienna
+Antwerp
+Bruxelles
+Bruges
+Charleroi
+Ghent
+Leuven
+Liège
+Mechelen
+Mons
+Namur
+Ostend
+Zonnebeke
+Besançon
+Biarritz
+Calais
+Grenoble
+Lille
+Lyon
+Marseille
+Mulhouse
+Metz
+Nantes
+Nice
+Orléans
+Reims
+Rennes
+Strasbourg
+Toulon
+Toulouse
+Vannes
+Aachen
+Arnstadt
+Augsburg
+Berlin
+East Berlin
+Bonn
+Bremen
+Chemnitz
+Cologne
+Darmstadt
+Dortmund
+Dresden
+Düsseldorf
+Essen
+Frankfurt am Main
+Halle
+Hamburg
+Hannover
+Heidelberg
+Ingolstadt
+Kassel
+Kiel
+Koblenz
+Krefeld
+Ladenburg
+Leipzig
+Leverkusen
+Lübeck
+Mainz
+Mannheim
+Mönchengladbach
+Mülheim
+München
+Münster
+Naumburg
+Nuremberg
+Oberhausen
+Osnabrück
+Paderborn
+Penzlin
+Potsdam
+Rheda-Wiedenbrück
+Rostock
+Salzwedel
+Schwerin
+Spremberg
+Stuttgart
+Teltow
+Weißenfels
+Wiesbaden
+Wolfsburg
+Wuppertal
+Zwickau
+Dublin
+Vaduz
+Luxembourg
+'s-Hertogenbosch
+Amersfoort
+Amsterdam
+Apeldoorn
+Arnhem
+Breda
+Delft
+Dordrecht
+Eindhoven
+Groningen
+Haarlem
+Hilversum
+Leeuwarden
+Leiden
+Maastricht
+Rotterdam
+The Hague
+Utrecht
+Venlo
+Zwolle
+Lisbon
+Alicante
+Almería
+Avilés
+Badajoz
+Bilbao
+Burgos
+Cádiz
+Cartagena
+Ceuta
+Ciudad Real
+Córdoba
+Elche
+Gijón
+Granada
+Ibiza
+Jaén
+Jerez
+Las Palmas
+León
+Málaga
+Melilla
+Murcia
+Oviedo
+Pamplona
+Salamanca
+San Sebastián
+Santa Cruz de Tenerife
+Santander
+Santiago de Compostela
+Segovia
+Seville
+Toledo
+Valencia
+Valladolid
+Vigo
+Zaragoza
+Zamora
+Basle
+Bern
+Geneva
+Lausanne
+Lucerne
+Zürich
+Aberdeen
+Belfast
+Birmingham
+Birmingham
+Cambridge
+Cardiff
+Durham
+Edinburgh
+Gibraltar
+Lincoln
+Portsmouth
+St. Helier
+York
+Charlottetown
+Montréal
+Ottawa
+Quebec City
+Regina
+St. John's
+Thunder Bay
+Toronto
+Vancouver
+San José
+Havana
+Santo Domingo
+San Salvador
+Guatemala City
+Carrefour
+Tegucigalpa
+Adelaide
+Brisbane
+Canberra
+Hobart
+Melbourne
+Perth
+Majuro
+Buenos Aires
+Córdoba
+Rosario
+La Paz
+Aracaju
+Brasília
+Curitiba
+Florianópolis
+Fortaleza
+Goiânia
+João Pessoa
+Macapá
+Manaus
+Recife
+Salvador
+São Luís
+Londrina
+Lages
+João Neiva
+Arauco
+Arica
+Cabo de Hornos
+Casablanca, Chile
+Collipulli
+Concepción
+Conchalí
+Concón
+Copiapó
+Florida, Chile
+Futaleufú
+Huasco
+Isla de Maipo
+La Cisterna
+La Pintana
+La Serena
+Linares
+Ñuñoa
+Osorno
+Quirihue
+Quilicura
+Peñalolén
+Pucón
+Renca
+Río Bueno
+Salamanca, Chile
+Santa Cruz, Chile
+San Bernardo, Chile
+Valdivia
+Valparaíso
+Barranquilla
+Cali
+Medellín
+Guayaquil
+Ibarra
+Quito
+Asunción
+Arequipa
+Ayacucho
+Huancayo
+Salto
+Caracas
+England
+Scotland
+Wales
+Northern Ireland
+Idrisid Dynasty
+Almohad Caliphate
+Christmas Island
+Cocos Islands
+Norfolk Island
+Easter Island
+Juan Fernández Islands
+Faroe Islands
+Greenland
+Åland Islands
+French Polynesia
+French Southern \& Antarctic Lands
+New Caledonia
+St. Barthélemy
+St. Pierre \& Miquelon
+Wallis \& Futuna
+Aruba
+Curaçao
+St. Maarten
+Bonaire
+St. Eustatius
+Saba
+Cook Islands
+Niue
+Tokelau
+Azores
+Madeira
+Canary Islands
+Guernsey
+Isle of Man
+Jersey
+Anguilla
+Ascension Island
+Bermuda
+British Antarctic Territory
+British Indian Ocean Territory
+British Virgin Islands
+Cayman Islands
+Falkland Islands
+Montserrat
+Pitcairn Islands
+Tristan da Cunha
+South Georgia \& the South Sandwich Islands
+St. Helena
+Turks \& Caicos Islands
+American Samoa
+Guam
+Johnston Atoll
+Northern Mariana Islands
+Puerto Rico
+US Virgin Islands
+Wake Island
+Canillo, Andorra
+Encamp, Andorra
+Escaldes-Engordany, Andorra
+La Massana, Andorra
+Ordino, Andorra
+San Juliá de Loria, Andorra
+Cabinda, Angola
+Barbuda
+Beni, Bolivia
+Chuquisaca, Bolivia
+Cochabamba, Bolivia
+Oruro, Bolivia
+Pando, Bolivia
+Potosí, Bolivia
+Santa Cruz, Bolivia
+Tarija, Bolivia
+Bohemia
+Moravia
+Czech Silesia
+Central Bohemia
+South Bohemia
+Vysočina
+Plzeň
+Karlovy Vary
+Ústí nad Labem
+Liberec
+Hradec Králové
+Olomouc
+Moravia-Silesia
+South Moravia
+Zlín
+Rotuma
+Kurdistan
+Gozo, Malta
+Bikini Atoll, Marshall Islands
+Ebon Atoll, Marshall Islands
+Kwajalein Atoll, Marshall Islands
+Majuro Atoll
+Ujae Atoll, Marshall Islands
+Satu Mare, Romania 
+Nevis
+Banská Bystrica
+Bratislava
+Košice
+Nitra
+Prešov
+Trenčín
+Trnava
+Žilina
+Kordofan, Sudan
+Zanzibar
+Ankole Kingdom, Uganda
+Buganda Kingdom, Uganda
+Tooro Kingdom, Uganda
+Buganda Kingdom, Uganda
+Crete, Ottoman Empire
+Ikaria, Ottoman Empire
+Samos, Ottoman Empire
+Scutari, Ottoman Empire
+Septinsular Republic, Ottoman Empire
+Algiers, Ottoman Empire
+Egypt, Ottoman Empire
+Herzegovina, Ottoman Empire
+Tripolitania, Ottoman Empire
+Tunis, Ottoman Empire
+Mecca, Ottoman Empire
+Bosnia, Ottoman Empire
+Serbia/Montenegro, Yugoslavia
+Croatia, Yugoslavia
+Bosnia \& Herzigovina, Yugoslavia
+Slovenia, Yugoslavia
+Macedonia, Yugoslavia
+
+New South Wales
+Queensland
+South Australia
+Tasmania
+Victoria, Australia
+Western Australia 
+Burgenland, Austria
+Carinthia, Austria
+Lower Austria
+Salzburg
+Styria, Austria
+Tyrol
+Upper Austria
+Vienna
+Vorarlberg, Austria
+Brussels-Capital Region
+Flanders
+Wallonia
+Antwerp
+East Flanders
+Flemish Brabant
+Hainaut
+Liège
+Limburg, Belgium
+Luxembourg, Belgium
+Namur, Belgium
+Walloon Brabant
+West Flanders
+Acre, Brazil
+Alagoas, Brazil
+Amapá, Brazil
+Amazonas, Brazil
+Bahia, Brazil
+Ceará, Brazil
+Espírito Santo, Brazil
+Goiás, Brazil
+Maranhão, Brazil
+Mato Grosso, Brazil
+Mato Grosso do Sul, Brazil
+Minas Gerais, Brazil
+Pará, Brazil
+Paraíba, Brazil
+Paraná, Brazil
+Pernambuco, Brazil
+Piauí, Brazil
+Rio de Janeiro (state)
+Rio Grande do Norte, Brazil
+Rio Grande do Sul, Brazil
+Rondônia, Brazil
+Roraima, Brazil
+Santa Catarina, Brazil
+São Paulo (state)
+Sergipe, Brazil
+Tocantins, Brazil
+Bjelovar-Bilogora county, Croatia
+Brod-Posavina county, Croatia
+Dubrovnik-Neretva county, Croatia
+Istria county, Croatia
+Karlovac county, Croatia
+Koprivnica-Križevci county, Croatia
+Krapina-Zagorje county, Croatia
+Lika-Senj county, Croatia
+Međimurje county, Croatia
+Osijek-Baranja county, Croatia
+Požega-Slavonia county, Croatia
+Primorje--Gorski Kotar county, Croatia
+Šibenik-Knin county, Croatia
+Sisak-Moslavina county, Croatia
+Split-Dalmatia county, Croatia
+Varaždin county, Croatia
+Virovitica-Podravina county, Croatia
+Vukovar-Srijem county, Croatia
+Zadar county, Croatia
+Zagreb (county)
+Aswan
+Asyut, Egypt
+Beheira, Egypt
+North Sinai, Egypt
+Dakahlia, Egypt
+Kafr el-Sheikh, Egypt
+Port Said, Egypt
+Sharqia, Egypt
+Harju county, Estonia
+Hiiu county, Estonia
+Ida-Viru county, Estonia
+Jõgeva county, Estonia
+Järva county, Estonia
+Lääne county, Estonia
+Lääne-Viru county, Estonia
+Põlva county, Estonia
+Pärnu county, Estonia
+Rapla county, Estonia
+Saare county, Estonia
+Tartu county, Estonia
+Valga county, Estonia
+Viljandi county, Estonia
+Võru county, Estonia
+Petseri county, Estonia
+Central Finland
+Central Ostrobothnia, Finland
+Kainuu region, Finland
+Kanta-Häme (Tavastia Proper), Finland
+North Karelia
+Northern Savonia, Finland
+Päijänne Tavastia, Finland
+Satakunta, Finland
+Southern Ostrobothnia, Finland
+South Savonia, Finland
+Uusimaa, Finland
+Auvergne--Rhône--Alpes
+Bourgogne-Franche-Comté
+Bretagne
+Bretagne (1532)
+Centre-Val de Loire
+Corse
+Grand Est
+Hauts-de-France	
+Île-de-France
+Normandie
+Nouvelle-Aquitaine
+Occitanie
+Pays de la Loire
+Provence--Alpes--Côte d'Azur
+Auvergne
+Champagne--Ardenne
+Limousin
+Lorraine
+Poitou-Charentes	
+Nord-Pas-de-Calais
+Languedoc-Roussillon
+Picardie
+Midi-Pyrénées
+Alsace
+French Guiana
+Guadeloupe
+Martinique
+Society Islands
+Gambler Islands
+Tuamotu Archipelago
+Marquesas Islands
+Austral Islands
+Miquelon-Langlade
+Alo
+Uvea
+Sigave
+Honduras
